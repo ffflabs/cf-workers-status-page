@@ -41,3 +41,9 @@ monitors:
     url: 'https://admin.financiatec.cl/'
     method: GET
     expectStatus: 200
+
+  - id: FinanciaPress
+    name: FinanciaPress
+    url: 'https://landing.financiatec.cl/'
+    method: GET
+    expectStatus: 200
